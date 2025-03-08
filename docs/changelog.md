@@ -9,6 +9,10 @@ SPDX-License-Identifier: CC-BY-4.0
 
 **Release Date:** TBD
 
+#### Enhancements
+
+- Several translations have been updated. Thanks to all the translators!
+
 #### Bug Fixes
 
 - Fixed an issue introduced by the GNOME 48 Beta release which caused some effects to break (Broken Glass, Matrix, Paint Brush, Snap of Disintegration, T-Rex Attack).
