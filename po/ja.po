@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: burn-my-windows\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-17 20:23+0100\n"
-"PO-Revision-Date: 2025-08-19 04:01+0000\n"
+"PO-Revision-Date: 2025-10-01 00:01+0000\n"
 "Last-Translator: rainy_sunset <rainy_sunset@users.noreply.hosted.weblate.org>"
 "\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/burn-my-windows/"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: src/effects/Apparition.js:80
 msgid "Apparition"
@@ -182,7 +182,7 @@ msgstr "このエフェクトをプレビュー"
 
 #: prefs.js:333
 msgid "Burn-My-Windows has been updated!"
-msgstr ""
+msgstr "Burn-My-Windows がアップデートされました!"
 
 #: prefs.js:334 resources/ui/common/menus.ui:17
 msgid "View Changelog"
@@ -240,31 +240,31 @@ msgstr ""
 
 #: prefs.js:765 resources/ui/adw/prefs.ui:163
 msgid "Power-Saver Mode"
-msgstr ""
+msgstr "省電力モード"
 
 #: prefs.js:766 resources/ui/adw/prefs.ui:164
 msgid "Balanced Mode"
-msgstr ""
+msgstr "バランスモード"
 
 #: prefs.js:767 resources/ui/adw/prefs.ui:165
 msgid "Performance Mode"
-msgstr ""
+msgstr "パフォーマンスモード"
 
 #: prefs.js:768 resources/ui/adw/prefs.ui:166
 msgid "Power Saver or Balanced"
-msgstr ""
+msgstr "省電力またはバランス"
 
 #: prefs.js:769 resources/ui/adw/prefs.ui:167
 msgid "Balanced or Performance"
-msgstr ""
+msgstr "バランスまたはパフォーマンス"
 
 #: prefs.js:774 resources/ui/adw/prefs.ui:183
 msgid "High Priority"
-msgstr ""
+msgstr "高い優先度"
 
 #: prefs.js:780
 msgid "Standard Profile"
-msgstr ""
+msgstr "標準プロファイル"
 
 #. Translators: %s will be replaced by the effect's name.
 #: prefs.js:860
@@ -282,7 +282,7 @@ msgstr "ホームページを訪れる"
 
 #: resources/ui/common/menus.ui:21
 msgid "View Matching Wallpapers"
-msgstr ""
+msgstr "マッチする壁紙を見る"
 
 #: resources/ui/common/menus.ui:25
 msgid "View Donors Hall-of-Fame"
