@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Burn-My-Windows\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-17 20:23+0100\n"
-"PO-Revision-Date: 2025-10-25 11:02+0000\n"
-"Last-Translator: Sabri Ünal <yakushabb@gmail.com>\n"
+"PO-Revision-Date: 2025-11-06 20:51+0000\n"
+"Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/burn-my-windows/"
 "core/tr/>\n"
 "Language: tr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: src/effects/Apparition.js:80
 msgid "Apparition"
@@ -761,7 +761,7 @@ msgstr "Halkadaki Yıldız Sayısı"
 
 #: resources/ui/adw/mushroom.ui:370
 msgid "Star Gradient"
-msgstr "_Yıldızla"
+msgstr "Yıldız Gradyanı"
 
 #: resources/ui/adw/pixelate.ui:47
 msgid "Noise"
